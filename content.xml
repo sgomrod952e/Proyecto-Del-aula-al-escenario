@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605071058560RTCBX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507105856W0RDZ4</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA: DEL AULA AL ESCENARIO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Creación y grabación de una interpretación pianística</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Sergio Gómez Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje para la asignatura de Música de Cámara (6º de Enseñanzas Profesionales) centrada en la investigación y recuperación de repertorio para clarinete y piano escrito por mujeres compositoras. El proyecto integra el desarrollo de la competencia digital, la reflexión sobre la propiedad intelectual y la preparación técnica para el Concurso de Interpretación de Música de Mujeres Compositoras</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778143566079</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-motraelf-id7vvgqj2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-motraelf-id7vvgqj2</odePageId>
+      <odeBlockId>block-1778004256082-439m6snn2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-motraelf-id7vvgqj2</odePageId>
+          <odeBlockId>block-1778004256082-439m6snn2</odeBlockId>
+          <odeIdeviceId>idevice-1778004256080-egstp0u3u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><strong>Del Aula al Escenario</strong></h1>
+<p style="text-align: center;">Creación y grabación de una interpretación pianística<br /> <br />🌟 <strong>Introducción</strong></p>
+<p style="text-align: justify;">Bienvenido/a a este proyecto donde te convertirás en el artífice de tu propia interpretación musical. No se trata solo de "tocar las notas", sino de recorrer el camino que transforma una partitura en una experiencia artística viva.</p>
+<p style="text-align: justify;">A través de este espacio, guiaremos tu proceso desde el primer análisis hasta la grabación final, integrando herramientas digitales que potenciarán tu estudio y tu capacidad crítica.</p>
+<p style="text-align: center;"> <br /><strong>🗺️ Hoja de Ruta (Temporalización)</strong></p>
+<p style="text-align: justify;">El proyecto se desarrollará a lo largo de 4 semanas:</p>
+<table border="1" style="width: 100%; height: 235.333px;">
+<tbody>
+<tr style="height: 32.6667px;">
+<td style="width: 33.2946%; text-align: center; height: 32.6667px;"><strong>Semana</strong></td>
+<td style="width: 33.2946%; text-align: center; height: 32.6667px;"><strong>Fase de trabajo</strong></td>
+<td style="width: 33.298%; text-align: center; height: 32.6667px;"><strong>Objetivo Principal</strong></td>
+</tr>
+<tr style="height: 56.6667px;">
+<td style="width: 33.2946%; height: 56.6667px; text-align: center;">1</td>
+<td style="width: 33.2946%; height: 56.6667px; text-align: center;"><em>La semilla</em></td>
+<td style="width: 33.298%; height: 56.6667px;">Selección de la obra y análisis inicial</td>
+</tr>
+<tr style="height: 56.6667px;">
+<td style="width: 33.2946%; height: 56.6667px; text-align: center;">2</td>
+<td style="width: 33.2946%; height: 56.6667px; text-align: center;"><em>La construcción</em></td>
+<td style="width: 33.298%; height: 56.6667px;">Estrategias de estudio y eficiencia</td>
+</tr>
+<tr style="height: 56.6667px;">
+<td style="width: 33.2946%; height: 56.6667px; text-align: center;">3</td>
+<td style="width: 33.2946%; height: 56.6667px; text-align: center;"><em>El modelado</em></td>
+<td style="width: 33.298%; height: 56.6667px;">Trabajo de campo interpretativo</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 33.2946%; height: 32.6667px; text-align: center;">4</td>
+<td style="width: 33.2946%; height: 32.6667px; text-align: center;"><em>La cosecha</em></td>
+<td style="width: 33.298%; height: 32.6667px;">Grabación final y reflexión sobre el proceso</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><br /> <br /><strong>🎯 ¿Qué vamos a conseguir? (Objetivos)</strong></p>
+<p><br />En este proyecto aprenderás a:</p>
+<ul>
+<li>Investigar: Explorar el contexto histórico y estético de tu obra.</li>
+<li>Optimizar: Utilizar estrategias de estudio para que cada minuto al piano cuente.</li>
+<li>Crear: Construir una versión personal basada en el dominio técnico y sonoro.</li>
+<li>Evaluar: Utilizar la grabación como espejo para mejorar tu interpretación.</li>
+</ul>
+<p style="text-align: center;"><strong>📝 El Producto Final</strong></p>
+<p style="text-align: center;">Tu trabajo culminará en una grabación audiovisual de tu obra, acompañada de un breve diario de aprendizaje donde explicarás qué técnicas te han funcionado mejor.<br /> <br />🔍<strong> Ficha Técnica</strong></p>
+<ul>
+<li style="text-align: left;">Nivel: 3º E.B. a 6º E.P.</li>
+<li style="text-align: left;">Materias implicadas: Piano (Principal), Lenguaje Musical, Análisis, Armonía y Nuevas Tecnologías.</li>
+<li style="text-align: left;">Enfoque: Metodologías activas para que tú seas el protagonista de tu aprendizaje.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778004256080-egstp0u3u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><strong>Del Aula al Escenario</strong></h1>\n<p style=\"text-align: center;\">Creación y grabación de una interpretación pianística<br /> <br />🌟 <strong>Introducción</strong></p>\n<p style=\"text-align: justify;\">Bienvenido/a a este proyecto donde te convertirás en el artífice de tu propia interpretación musical. No se trata solo de \"tocar las notas\", sino de recorrer el camino que transforma una partitura en una experiencia artística viva.</p>\n<p style=\"text-align: justify;\">A través de este espacio, guiaremos tu proceso desde el primer análisis hasta la grabación final, integrando herramientas digitales que potenciarán tu estudio y tu capacidad crítica.</p>\n<p style=\"text-align: center;\"> <br /><strong>🗺️ Hoja de Ruta (Temporalización)</strong></p>\n<p style=\"text-align: justify;\">El proyecto se desarrollará a lo largo de 4 semanas:</p>\n<table border=\"1\" style=\"width: 100%; height: 235.333px;\">\n<tbody>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 33.2946%; text-align: center; height: 32.6667px;\"><strong>Semana</strong></td>\n<td style=\"width: 33.2946%; text-align: center; height: 32.6667px;\"><strong>Fase de trabajo</strong></td>\n<td style=\"width: 33.298%; text-align: center; height: 32.6667px;\"><strong>Objetivo Principal</strong></td>\n</tr>\n<tr style=\"height: 56.6667px;\">\n<td style=\"width: 33.2946%; height: 56.6667px; text-align: center;\">1</td>\n<td style=\"width: 33.2946%; height: 56.6667px; text-align: center;\"><em>La semilla</em></td>\n<td style=\"width: 33.298%; height: 56.6667px;\">Selección de la obra y análisis inicial</td>\n</tr>\n<tr style=\"height: 56.6667px;\">\n<td style=\"width: 33.2946%; height: 56.6667px; text-align: center;\">2</td>\n<td style=\"width: 33.2946%; height: 56.6667px; text-align: center;\"><em>La construcción</em></td>\n<td style=\"width: 33.298%; height: 56.6667px;\">Estrategias de estudio y eficiencia</td>\n</tr>\n<tr style=\"height: 56.6667px;\">\n<td style=\"width: 33.2946%; height: 56.6667px; text-align: center;\">3</td>\n<td style=\"width: 33.2946%; height: 56.6667px; text-align: center;\"><em>El modelado</em></td>\n<td style=\"width: 33.298%; height: 56.6667px;\">Trabajo de campo interpretativo</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 33.2946%; height: 32.6667px; text-align: center;\">4</td>\n<td style=\"width: 33.2946%; height: 32.6667px; text-align: center;\"><em>La cosecha</em></td>\n<td style=\"width: 33.298%; height: 32.6667px;\">Grabación final y reflexión sobre el proceso</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\"><br /> <br /><strong>🎯 ¿Qué vamos a conseguir? (Objetivos)</strong></p>\n<p><br />En este proyecto aprenderás a:</p>\n<ul>\n<li>Investigar: Explorar el contexto histórico y estético de tu obra.</li>\n<li>Optimizar: Utilizar estrategias de estudio para que cada minuto al piano cuente.</li>\n<li>Crear: Construir una versión personal basada en el dominio técnico y sonoro.</li>\n<li>Evaluar: Utilizar la grabación como espejo para mejorar tu interpretación.</li>\n</ul>\n<p style=\"text-align: center;\"><strong>📝 El Producto Final</strong></p>\n<p style=\"text-align: center;\">Tu trabajo culminará en una grabación audiovisual de tu obra, acompañada de un breve diario de aprendizaje donde explicarás qué técnicas te han funcionado mejor.<br /> <br />🔍<strong> Ficha Técnica</strong></p>\n<ul>\n<li style=\"text-align: left;\">Nivel: 3º E.B. a 6º E.P.</li>\n<li style=\"text-align: left;\">Materias implicadas: Piano (Principal), Lenguaje Musical, Análisis, Armonía y Nuevas Tecnologías.</li>\n<li style=\"text-align: left;\">Enfoque: Metodologías activas para que tú seas el protagonista de tu aprendizaje.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-motraelk-alexxr59n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Derechos y privacidad</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Derechos y privacidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Derechos y privacidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-motraelk-alexxr59n</odePageId>
+      <odeBlockId>block-1778053941604-c8f8tppmj</odeBlockId>
+      <blockName>Descargar la infografía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-motraelk-alexxr59n</odePageId>
+          <odeBlockId>block-1778053941604-c8f8tppmj</odeBlockId>
+          <odeIdeviceId>idevice-1778053941602-ys0vl2jzx</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><p style="text-align: center;"><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/Seguridad digital y derechos en proyectos musicales.pdf" data-mce-pdf="true"></iframe></p>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-motraelk-a10evjdlc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El Producto Final: detalles</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Producto Final: detalles</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Reto: Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>El Producto Final: detalles</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-motraelk-a10evjdlc</odePageId>
+      <odeBlockId>block-1778054557130-kzeslpdzf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-motraelk-a10evjdlc</odePageId>
+          <odeBlockId>block-1778054557130-kzeslpdzf</odeBlockId>
+          <odeIdeviceId>idevice-1778054557127-ba6xn767v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Este trabajo consiste en la creación de una propuesta interpretativa integral para el Concurso de Interpretación de Música de Mujeres Compositoras. Como alumnos de último curso, el objetivo es que viváis el proceso real que sigue un intérprete profesional del siglo XXI.</p>
+<p>Vuestro proyecto se divide en tres pilares:</p>
+<p style="text-align: justify;"><strong>1. El "Cuaderno de Bitácora" de la obra</strong></p>
+<p style="text-align: justify;">No solo queremos la partitura, queremos el camino que habéis seguido para llegar a ella. Debéis entregar un breve registro que incluya:</p>
+<ul>
+<li style="text-align: justify;">Fuentes de hallazgo: ¿Dónde encontrasteis la obra? (Repositorios, páginas oficiales de compositoras o editoriales).</li>
+<li style="text-align: justify;">Criterio de selección: ¿Qué os hizo decidiros por esta obra tras vuestra investigación en YouTube o Spotify?</li>
+<li style="text-align: justify;">Valoración del autor: Una breve reflexión sobre el proceso de adquirir la partitura y la importancia de apoyar los derechos de autor y el trabajo de los creadores actuales.</li>
+</ul>
+<p><strong>2. La Interpretación de cámara</strong></p>
+<p>Es el trabajo principal del proyecto. Se evaluará:</p>
+<ul>
+<li style="text-align: justify;">Calidad técnica y artística: El montaje de la obra para clarinete y piano al nivel de excelencia que requiere 6º de EEPP.</li>
+<li style="text-align: justify;">Empaste y concertación: Vuestra capacidad para dialogar como dúo y defender la propuesta estética de la compositora.</li>
+</ul>
+<p><br /><strong>3. Divulgación: Las notas al programa</strong></p>
+<p>Como intérpretes, tenéis la responsabilidad de conectar la obra con el público. Deberéis redactar unas notas al programa profesional para el concurso que incluyan:</p>
+<ul>
+<li>Contexto histórico y biográfico de la compositora.</li>
+<li>Breve análisis de qué debe escuchar el público en la pieza (guía de audición).<br /> <br /><strong>💡 Reflexión</strong></li>
+</ul>
+<p style="text-align: justify;">A menudo, el repertorio "estándar" es solo la punta del iceberg. Con este proyecto demostraréis que, además del recurso de los repositorios tradicionales gratuitos, el músico profesional sabe investigar, localizar y poner en valor el patrimonio musical oculto. Habréis pasado de ser alumnos que reciben una partitura a ter la capacidad y autonomía de investigar más allá y descubrir nuevas obras.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778054557127-ba6xn767v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Este trabajo consiste en la creación de una propuesta interpretativa integral para el Concurso de Interpretación de Música de Mujeres Compositoras. Como alumnos de último curso, el objetivo es que viváis el proceso real que sigue un intérprete profesional del siglo XXI.</p>\n<p>Vuestro proyecto se divide en tres pilares:</p>\n<p style=\"text-align: justify;\"><strong>1. El \"Cuaderno de Bitácora\" de la obra</strong></p>\n<p style=\"text-align: justify;\">No solo queremos la partitura, queremos el camino que habéis seguido para llegar a ella. Debéis entregar un breve registro que incluya:</p>\n<ul>\n<li style=\"text-align: justify;\">Fuentes de hallazgo: ¿Dónde encontrasteis la obra? (Repositorios, páginas oficiales de compositoras o editoriales).</li>\n<li style=\"text-align: justify;\">Criterio de selección: ¿Qué os hizo decidiros por esta obra tras vuestra investigación en YouTube o Spotify?</li>\n<li style=\"text-align: justify;\">Valoración del autor: Una breve reflexión sobre el proceso de adquirir la partitura y la importancia de apoyar los derechos de autor y el trabajo de los creadores actuales.</li>\n</ul>\n<p><strong>2. La Interpretación de cámara</strong></p>\n<p>Es el trabajo principal del proyecto. Se evaluará:</p>\n<ul>\n<li style=\"text-align: justify;\">Calidad técnica y artística: El montaje de la obra para clarinete y piano al nivel de excelencia que requiere 6º de EEPP.</li>\n<li style=\"text-align: justify;\">Empaste y concertación: Vuestra capacidad para dialogar como dúo y defender la propuesta estética de la compositora.</li>\n</ul>\n<p><br /><strong>3. Divulgación: Las notas al programa</strong></p>\n<p>Como intérpretes, tenéis la responsabilidad de conectar la obra con el público. Deberéis redactar unas notas al programa profesional para el concurso que incluyan:</p>\n<ul>\n<li>Contexto histórico y biográfico de la compositora.</li>\n<li>Breve análisis de qué debe escuchar el público en la pieza (guía de audición).<br /> <br /><strong>💡 Reflexión</strong></li>\n</ul>\n<p style=\"text-align: justify;\">A menudo, el repertorio \"estándar\" es solo la punta del iceberg. Con este proyecto demostraréis que, además del recurso de los repositorios tradicionales gratuitos, el músico profesional sabe investigar, localizar y poner en valor el patrimonio musical oculto. Habréis pasado de ser alumnos que reciben una partitura a ter la capacidad y autonomía de investigar más allá y descubrir nuevas obras.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-motraelk-2gak2wmar</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenido: recursos para investigar</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido: recursos para investigar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para investigar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curación de contenido: recursos para investigar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-motraelk-2gak2wmar</odePageId>
+      <odeBlockId>block-1778055120787-je77j1af5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-motraelk-2gak2wmar</odePageId>
+          <odeBlockId>block-1778055120787-je77j1af5</odeBlockId>
+          <odeIdeviceId>idevice-1778055120785-fnqqpsm5r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Herramientas docentes</strong></p>
+<p><strong title="Herramientas digitales piano"><a href="https://www.symbaloo.com/shared/AAAABvLUL2IAA42ADs94qw==" title="Herramientas digitales piano">https://www.symbaloo.com/shared/AAAABvLUL2IAA42ADs94qw==</a></strong></p>
+<p><strong title="Herramientas digitales piano">Herramientas para el alumnado</strong></p>
+<p><strong title=""><a href="https://padlet.com/sgomrod952e/del-aula-al-escenario-1pdawenugvgvqa25">https://padlet.com/sgomrod952e/del-aula-al-escenario-1pdawenugvgvqa25</a></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778055120785-fnqqpsm5r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Herramientas docentes</strong></p>\n<p><strong title=\"Herramientas digitales piano\"><a href=\"https://www.symbaloo.com/shared/AAAABvLUL2IAA42ADs94qw==\" title=\"Herramientas digitales piano\">https://www.symbaloo.com/shared/AAAABvLUL2IAA42ADs94qw==</a></strong></p>\n<p><strong title=\"Herramientas digitales piano\">Herramientas para el alumnado</strong></p>\n<p><strong title=\"\"><a href=\"https://padlet.com/sgomrod952e/del-aula-al-escenario-1pdawenugvgvqa25\">https://padlet.com/sgomrod952e/del-aula-al-escenario-1pdawenugvgvqa25</a></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-motraelk-9te4v7k83</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Plan de Trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-motraelk-9te4v7k83</odePageId>
+      <odeBlockId>block-1778139940158-roeqvq61b</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-motraelk-9te4v7k83</odePageId>
+          <odeBlockId>block-1778139940158-roeqvq61b</odeBlockId>
+          <odeIdeviceId>idevice-1778139940153-xlzvmway1</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778139940153-xlzvmway1" title="" href="{{context_path}}/content/resources/Mapa Mental Conceptos Organización Visual Nubes Creativo Moderno Multicolor.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Mapa Mental Conceptos Organización Visual Nubes Creativo Moderno Multicolor.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778139940153-xlzvmway1","img_0":{"img":"{{context_path}}/content/resources/Mapa Mental Conceptos Organización Visual Nubes Creativo Moderno Multicolor.png","thumbnail":"{{context_path}}/content/resources/Mapa Mental Conceptos Organización Visual Nubes Creativo Moderno Multicolor.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-motraelk-ouurqckvg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-motraelk-ouurqckvg</odePageId>
+      <odeBlockId>block-1778140074009-sand4b4ph</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-motraelk-ouurqckvg</odePageId>
+          <odeBlockId>block-1778140074009-sand4b4ph</odeBlockId>
+          <odeIdeviceId>idevice-1778140074007-ffowdyoy9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<table border="1" style="width: 100%; height: 1132px;">
+<tbody>
+<tr style="height: 56.6667px;">
+<td style="width: 19.9771%; height: 56.6667px;"><strong>TAREA </strong><br /></td>
+<td style="width: 19.9771%; height: 56.6667px;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+<td style="width: 19.9771%; height: 56.6667px;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 19.9771%; height: 56.6667px;"><strong>TIEMPO APROXIMADO</strong></td>
+<td style="width: 19.9788%; height: 56.6667px;"><strong>HERRAMIENTA SUGERIDA</strong></td>
+</tr>
+<tr style="height: 296.667px;">
+<td style="width: 19.9771%; height: 296.667px;">Selección de la obra</td>
+<td style="width: 19.9771%; height: 296.667px;">CE4 de 6º EEPP (Música de cámara): Estudiar en casa las obras correspondientes al repertorio programado. Evalúa la responsabilidad y respeto por la interpretación musica</td>
+<td style="width: 19.9771%; height: 296.667px;">Individual/pareja</td>
+<td style="width: 19.9771%; height: 296.667px;">1 sesión </td>
+<td style="width: 19.9788%; height: 296.667px;">Navegador: IMSLP, Youtube, Spotify, webs oficiales de compositoras</td>
+</tr>
+<tr style="height: 248.667px;">
+<td style="width: 19.9771%; height: 248.667px;">Trabajo de campo interpretativo (investigación histórica y auditiva)</td>
+<td style="width: 19.9771%; height: 248.667px;">CE1 6º EEPP MC: Interpretar obras de distintas épocas y estilos… Permite evaluar la comprensión del estilo y la adecuación interpretativa.</td>
+<td style="width: 19.9771%; height: 248.667px;">Individual/pareja</td>
+<td style="width: 19.9771%; height: 248.667px;">4 sesiones</td>
+<td style="width: 19.9788%; height: 248.667px;"> Internet para investigación, el Padlet personalizado para la organización de recursos, YouTube/Spotify para audiciones<br /></td>
+</tr>
+<tr style="height: 272.667px;">
+<td style="width: 19.9771%; height: 272.667px;">Grabación y autoevaluación</td>
+<td style="width: 19.9771%; height: 272.667px;">CE5: Interpretación pública de obras de estilos y épocas diversas, evaluando fraseo, precisión rítmica, equilibrio sonoro y adecuación interpretativa.</td>
+<td style="width: 19.9771%; height: 272.667px;">Pareja</td>
+<td style="width: 19.9771%; height: 272.667px;">2 sesiones</td>
+<td style="width: 19.9788%; height: 272.667px;">Móvil/tablet para grabación, Google Drive o Padlet para subir el vídeo, Google Docs colaborativo para la reflexión escrita</td>
+</tr>
+<tr style="height: 176.667px;">
+<td style="width: 19.9771%; height: 176.667px;">Presentación oral sobre la compositora</td>
+<td style="width: 19.9771%; height: 176.667px;">CE3: Analizar y reflexionar sobre obras y procesos interpretativos; demostrando comprensión del contexto y estilo.</td>
+<td style="width: 19.9771%; height: 176.667px;">Pareja</td>
+<td style="width: 19.9771%; height: 176.667px;">1 sesión</td>
+<td style="width: 19.9788%; height: 176.667px;">Navegador de internet</td>
+</tr>
+<tr style="height: 80.6667px;">
+<td style="width: 19.9771%; height: 80.6667px;">Preparación y participación en concurso</td>
+<td style="width: 19.9771%; height: 80.6667px;">CE5: Interpretación pública de obras de estilos y épocas diversas, evaluando fraseo, precisión rítmica, equilibrio sonoro y adecuación estilística.</td>
+<td style="width: 19.9771%; height: 80.6667px;">Individual/Pareja</td>
+<td style="width: 19.9771%; height: 80.6667px;">4 sesiones</td>
+<td style="width: 19.9788%; height: 80.6667px;">Móvil/tablet para grabación, Google Drive o Padlet para compartir vídeos; planificación de ensayo y estudio personal en Google Sheets</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778140074007-ffowdyoy9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<table border=\"1\" style=\"width: 100%; height: 1132px;\">\n<tbody>\n<tr style=\"height: 56.6667px;\">\n<td style=\"width: 19.9771%; height: 56.6667px;\"><strong>TAREA </strong><br /></td>\n<td style=\"width: 19.9771%; height: 56.6667px;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n<td style=\"width: 19.9771%; height: 56.6667px;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 19.9771%; height: 56.6667px;\"><strong>TIEMPO APROXIMADO</strong></td>\n<td style=\"width: 19.9788%; height: 56.6667px;\"><strong>HERRAMIENTA SUGERIDA</strong></td>\n</tr>\n<tr style=\"height: 296.667px;\">\n<td style=\"width: 19.9771%; height: 296.667px;\">Selección de la obra</td>\n<td style=\"width: 19.9771%; height: 296.667px;\">CE4 de 6º EEPP (Música de cámara): Estudiar en casa las obras correspondientes al repertorio programado. Evalúa la responsabilidad y respeto por la interpretación musica</td>\n<td style=\"width: 19.9771%; height: 296.667px;\">Individual/pareja</td>\n<td style=\"width: 19.9771%; height: 296.667px;\">1 sesión </td>\n<td style=\"width: 19.9788%; height: 296.667px;\">Navegador: IMSLP, Youtube, Spotify, webs oficiales de compositoras</td>\n</tr>\n<tr style=\"height: 248.667px;\">\n<td style=\"width: 19.9771%; height: 248.667px;\">Trabajo de campo interpretativo (investigación histórica y auditiva)</td>\n<td style=\"width: 19.9771%; height: 248.667px;\">CE1 6º EEPP MC: Interpretar obras de distintas épocas y estilos… Permite evaluar la comprensión del estilo y la adecuación interpretativa.</td>\n<td style=\"width: 19.9771%; height: 248.667px;\">Individual/pareja</td>\n<td style=\"width: 19.9771%; height: 248.667px;\">4 sesiones</td>\n<td style=\"width: 19.9788%; height: 248.667px;\"> Internet para investigación, el Padlet personalizado para la organización de recursos, YouTube/Spotify para audiciones<br /></td>\n</tr>\n<tr style=\"height: 272.667px;\">\n<td style=\"width: 19.9771%; height: 272.667px;\">Grabación y autoevaluación</td>\n<td style=\"width: 19.9771%; height: 272.667px;\">CE5: Interpretación pública de obras de estilos y épocas diversas, evaluando fraseo, precisión rítmica, equilibrio sonoro y adecuación interpretativa.</td>\n<td style=\"width: 19.9771%; height: 272.667px;\">Pareja</td>\n<td style=\"width: 19.9771%; height: 272.667px;\">2 sesiones</td>\n<td style=\"width: 19.9788%; height: 272.667px;\">Móvil/tablet para grabación, Google Drive o Padlet para subir el vídeo, Google Docs colaborativo para la reflexión escrita</td>\n</tr>\n<tr style=\"height: 176.667px;\">\n<td style=\"width: 19.9771%; height: 176.667px;\">Presentación oral sobre la compositora</td>\n<td style=\"width: 19.9771%; height: 176.667px;\">CE3: Analizar y reflexionar sobre obras y procesos interpretativos; demostrando comprensión del contexto y estilo.</td>\n<td style=\"width: 19.9771%; height: 176.667px;\">Pareja</td>\n<td style=\"width: 19.9771%; height: 176.667px;\">1 sesión</td>\n<td style=\"width: 19.9788%; height: 176.667px;\">Navegador de internet</td>\n</tr>\n<tr style=\"height: 80.6667px;\">\n<td style=\"width: 19.9771%; height: 80.6667px;\">Preparación y participación en concurso</td>\n<td style=\"width: 19.9771%; height: 80.6667px;\">CE5: Interpretación pública de obras de estilos y épocas diversas, evaluando fraseo, precisión rítmica, equilibrio sonoro y adecuación estilística.</td>\n<td style=\"width: 19.9771%; height: 80.6667px;\">Individual/Pareja</td>\n<td style=\"width: 19.9771%; height: 80.6667px;\">4 sesiones</td>\n<td style=\"width: 19.9788%; height: 80.6667px;\">Móvil/tablet para grabación, Google Drive o Padlet para compartir vídeos; planificación de ensayo y estudio personal en Google Sheets</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778143232067-2giep5y3g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778143232067-2giep5y3g</odePageId>
+      <odeBlockId>block-1778143233187-9k8fax4lw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778143232067-2giep5y3g</odePageId>
+          <odeBlockId>block-1778143233187-9k8fax4lw</odeBlockId>
+          <odeIdeviceId>idevice-1778143233184-fqmubvejt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/Instrumentos de evaluación para el proyecto _Del aula al escenario_ (1).pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778143233184-fqmubvejt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Instrumentos de evaluación para el proyecto _Del aula al escenario_ (1).pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-motraelk-55ad8372x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-motraelk-55ad8372x</odePageId>
+      <odeBlockId>block-1778143768402-nw8xpzr2j</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-motraelk-55ad8372x</odePageId>
+          <odeBlockId>block-1778143768402-nw8xpzr2j</odeBlockId>
+          <odeIdeviceId>idevice-1778143768398-3hhsnswd7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><strong>Guía para el profesorado</strong></h1>
+<p><strong></strong></p>
+<p style="text-align: center;">Recomendaciones</p>
+<p style="text-align: justify;">Es normal que al principio el alumnado se frustre si no encuentra la partitura en IMSLP. Se recomienda guiarles hacia las asociaciones de mujeres compositoras o las editoriales contemporáneas para que entiendan que el material actual tiene un valor económico.<strong><br /></strong></p>
+<p style="text-align: justify;">Por otro lado, se sugiere animar a los alumnos a crear una 'lista de reproducción compartida' en Spotify para comparar diferentes versiones antes de elegir su obra.</p>
+<p style="text-align: center;">Relación de tareas y criterios de evaluación</p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 49.9436%; text-align: center;"><strong>Tarea del alumno</strong></td>
+<td style="width: 49.9436%; text-align: center;"><strong>Criterio de evaluación</strong></td>
+</tr>
+<tr>
+<td style="width: 49.9436%;">Investigación en red: Búsqueda en repositorios (IMSLP, webs oficiales)</td>
+<td style="width: 49.9436%;">Utilizar herramientas digitales de forma autónoma para localizar repertorio específico superando las limitaciones de los buscadores básicos</td>
+</tr>
+<tr>
+<td style="width: 49.9436%;">Selección de repertorio: Escucha crítica en Spotify/YouTube</td>
+<td style="width: 49.9436%;">Justificar la elección de una obra atendiendo a criterios estilísticos y de gusto personal fundamentado</td>
+</tr>
+<tr>
+<td style="width: 49.9436%;">Adquisición de partitura: Reflexión sobre la propiedad intelectual</td>
+<td style="width: 49.9436%;">Valorar el trabajo del creador actual y comprender los mecanismos legales de acceso a la cultura</td>
+</tr>
+<tr>
+<td style="width: 49.9436%;">Interpretación final: Concurso de música de mujeres</td>
+<td style="width: 49.9436%;">Aplicar con solvencia las técnicas de interpretación de cámara (afinación, empaste, fraseo) en público</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778143768398-3hhsnswd7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><strong>Guía para el profesorado</strong></h1>\n<p><strong></strong></p>\n<p style=\"text-align: center;\">Recomendaciones</p>\n<p style=\"text-align: justify;\">Es normal que al principio el alumnado se frustre si no encuentra la partitura en IMSLP. Se recomienda guiarles hacia las asociaciones de mujeres compositoras o las editoriales contemporáneas para que entiendan que el material actual tiene un valor económico.<strong><br /></strong></p>\n<p style=\"text-align: justify;\">Por otro lado, se sugiere animar a los alumnos a crear una 'lista de reproducción compartida' en Spotify para comparar diferentes versiones antes de elegir su obra.</p>\n<p style=\"text-align: center;\">Relación de tareas y criterios de evaluación</p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9436%; text-align: center;\"><strong>Tarea del alumno</strong></td>\n<td style=\"width: 49.9436%; text-align: center;\"><strong>Criterio de evaluación</strong></td>\n</tr>\n<tr>\n<td style=\"width: 49.9436%;\">Investigación en red: Búsqueda en repositorios (IMSLP, webs oficiales)</td>\n<td style=\"width: 49.9436%;\">Utilizar herramientas digitales de forma autónoma para localizar repertorio específico superando las limitaciones de los buscadores básicos</td>\n</tr>\n<tr>\n<td style=\"width: 49.9436%;\">Selección de repertorio: Escucha crítica en Spotify/YouTube</td>\n<td style=\"width: 49.9436%;\">Justificar la elección de una obra atendiendo a criterios estilísticos y de gusto personal fundamentado</td>\n</tr>\n<tr>\n<td style=\"width: 49.9436%;\">Adquisición de partitura: Reflexión sobre la propiedad intelectual</td>\n<td style=\"width: 49.9436%;\">Valorar el trabajo del creador actual y comprender los mecanismos legales de acceso a la cultura</td>\n</tr>\n<tr>\n<td style=\"width: 49.9436%;\">Interpretación final: Concurso de música de mujeres</td>\n<td style=\"width: 49.9436%;\">Aplicar con solvencia las técnicas de interpretación de cámara (afinación, empaste, fraseo) en público</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-motraelk-h960zpkic</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-motraelk-h960zpkic</odePageId>
+      <odeBlockId>block-1778143611690-il3vz3wzy</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-motraelk-h960zpkic</odePageId>
+          <odeBlockId>block-1778143611690-il3vz3wzy</odeBlockId>
+          <odeIdeviceId>idevice-1778143611687-pm8s0zlhe</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA: DEL AULA AL ESCENARIO</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje para la asignatura de Música de Cámara (6º de Enseñanzas Profesionales) centrada en la investigación y recuperación de repertorio para clarinete y piano escrito por mujeres compositoras. El proyecto integra el desarrollo de la competencia digital, la reflexión sobre la propiedad intelectual y la preparación técnica para el Concurso de Interpretación de Música de Mujeres Compositoras</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Sergio Gómez Rodríguez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
